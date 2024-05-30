@@ -15,7 +15,7 @@ redirect_from:
 
 📚 Current pursuits: I am pursuing my Master's degree, expanding my knowledge and skills in Data Science and AI.
 
-📽️ Passion: I am passionate about participating in initiatives in AI and making contributions in this field.
+📽️ Passion: I am passionate about participating in initiatives in AI and making contributions in this field, and I'm eager to continue learning and expanding my knowledge in the field of AI.
 
 
 😊 About me
@@ -35,10 +35,10 @@ I am a [Founding Member](https://drive.google.com/file/d/11OlvlwxFe2cchFvfvFALpw
 
 I served as a core member of the organization team to organize multiple events, both inside and outside the faculty, as well as online. Here is a list of the events I worked on:
 
-1. **First Hackathon at the Multidisciplinary Faculty of Nador**: Focusing on Artificial Intelligence. [Certificate](https://drive.google.com/file/d/1OngiM-VKAri7i9cEcl_CQhqPh-dJ2Qeu/view?usp=sharing)
-2. **Workshop on Utilizing Artificial Intelligence for Scientific Research**: [Certificate](https://drive.google.com/file/d/1xGJ4m0Axymr5SbiBh5yDOX7ZPBEWt-fp/view?usp=sharing)
-3. **First Edition of the Artificial Intelligence Awareness Day (JSIA-01)**: [Certificate](https://drive.google.com/file/d/11qAkZx0iaZczsdhrw4SvJb_ZL0b9kVmU/view?usp=sharing)
-4. **First Edition of a Webinar on AI (Webinar-01)**: In collaboration with Professor [Mourad GRIDACH](https://mouradgridach.github.io/). [Certificate](https://drive.google.com/file/d/1CDkfksLl-M59cMvtojfu7rsrQZ39T7_b/view?usp=sharing)
+1. **First Hackathon at the Multidisciplinary Faculty of Nador**: Focusing on Artificial Intelligence. [[Certificate](https://drive.google.com/file/d/1OngiM-VKAri7i9cEcl_CQhqPh-dJ2Qeu/view?usp=sharing)]
+2. **Workshop on Utilizing Artificial Intelligence for Scientific Research**: [[Certificate](https://drive.google.com/file/d/1xGJ4m0Axymr5SbiBh5yDOX7ZPBEWt-fp/view?usp=sharing)]
+3. **First Edition of the Artificial Intelligence Awareness Day (JSIA-01)**: [[Certificate](https://drive.google.com/file/d/11qAkZx0iaZczsdhrw4SvJb_ZL0b9kVmU/view?usp=sharing)]
+4. **First Edition of a Webinar on AI (Webinar-01)**: In collaboration with Professor [Mourad GRIDACH](https://mouradgridach.github.io/). [[Certificate](https://drive.google.com/file/d/1CDkfksLl-M59cMvtojfu7rsrQZ39T7_b/view?usp=sharing)]
 
 
 
