@@ -27,12 +27,19 @@ As a passionate Data Science and Artificial Intelligence enthusiast, I bring sol
 My current research interests lie in the fields of Large Language Models and their applications for various tasks, such as Sentiment Analysis. I am eager to continue learning and expanding my knowledge in these areas. With my passion and dedication, I am confident that I will make a valuable contribution to the field in the future.
 
 
-# 🤖 Open Source Contributions
-I am a Core Member at the [AtlasIA](https://huggingface.co/atlasia) Initiative, which aims to build open-source data and models for Morocco.
-
 # 🙌 Initiatives and Community Contributions
 
-I am a Founding Member of the first Club of Artificial Intelligence and its application ([Club I2A](https://www.linkedin.com/company/club-i2a/)) at the Multidisciplinary Faculty of Nador.[Certificate](https://drive.google.com/file/d/11OlvlwxFe2cchFvfvFALpwI7X0xKboz1/view)
+I am a Core Member at the [AtlasIA](https://huggingface.co/atlasia) Initiative, which aims to build open-source data and models for Morocco.
+
+
+I am a [Founding Member](https://drive.google.com/file/d/11OlvlwxFe2cchFvfvFALpwI7X0xKboz1/view) and [Vice-President](https://drive.google.com/file/d/1wLrAFrt8ueEpt5a94i-8wxQF7InDsfC3/view) of the first Club of Artificial Intelligence and its application ([Club I2A](https://www.linkedin.com/company/club-i2a/)) at the Multidisciplinary Faculty of Nador.
+
+
+I served as a core member of the organziation tea to orgnize multiple events, Inside the aculty and outside tha faculty and online as well, here is a list of the events that i worked on:
+1- I was a core member of the organization team for the first Hackathon at the Multidisciplinary Faculty of Nador, focusing on Artificial Intelligence.[Certificate](https://drive.google.com/file/d/1OngiM-VKAri7i9cEcl_CQhqPh-dJ2Qeu/view?usp=sharing)
+2- I was a core member of the organization team to orgnize a workshop on utilizing artificial intelligence for scientific research.[Certificate](https://drive.google.com/file/d/1xGJ4m0Axymr5SbiBh5yDOX7ZPBEWt-fp/view?usp=sharing)
+3- Orgnized the first edition o the artificial intelligence awareness day (JSIA-01).[Certificate](https://drive.google.com/file/d/11qAkZx0iaZczsdhrw4SvJb_ZL0b9kVmU/view?usp=sharing)
+4- Orgnized the first edition of a Webinar of AI (Webinar-01) with collaboration with Professor [Mourad GRIDACH](https://mouradgridach.github.io/)[Certificate](https://drive.google.com/file/d/1CDkfksLl-M59cMvtojfu7rsrQZ39T7_b/view?usp=sharing)
 
 
 
