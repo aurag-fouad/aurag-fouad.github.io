@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fouad AURAG"
+title                    : "Fouad Aurag"
 title_separator          : "-"
 name                     : &name "Fouad AURAG"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "aurag-fouad/aurag-fouad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.JPG"
   name             : "Fouad AURAG"
   pronouns         : # example: "she/her"  
   bio              : "Master's Student in Data Science | Passionate about AI"

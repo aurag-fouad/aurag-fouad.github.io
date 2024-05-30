@@ -9,20 +9,32 @@ redirect_from:
 
 👨🏻‍💻 Education: Master's student in Data Science and Intelligent Systems at the [Multidisciplinary Faculty of Nador](https://fpn.ump.ma/) - [UMP](https://www.ump.ma/).
 
-🔬 Research interests: Data Science and Artificial Intelligence, with a focus on Large Language Models.
+🎓 Diplomas: I hold a Bachelor's Degree in Mathematics and Computer Science, with a specialty in Network Systems Administration and Web Technologies.
 
-📚 Current pursuits: Pursuing your Master's degree, expanding your knowledge and skills in Data Science and AI.
+🔬 Research interests: I am interested in Data Science and Artificial Intelligence, with a focus on Large Language Models.
 
-📽️ Passion: Participating in initiatives in AI and making contributions in this field.
+📚 Current pursuits: I am pursuing my Master's degree, expanding my knowledge and skills in Data Science and AI.
+
+📽️ Passion: I am passionate about participating in initiatives in AI and making contributions in this field.
 
 
-ℹ About me
+😊 About me
 ======
 Welcome to my academic webpage! I'm Fouad AURAG, a second-year Master's student in Data Science and Intelligent Systems at the Pluridisciplinary Faculty of Nador.
 
 As a passionate Data Science and Artificial Intelligence enthusiast, I bring solid experience in Data Mining, Machine Learning, and Big Data with Hadoop, as well as Data Warehouse technologies.
 
 My current research interests lie in the fields of Large Language Models and their applications for various tasks, such as Sentiment Analysis. I am eager to continue learning and expanding my knowledge in these areas. With my passion and dedication, I am confident that I will make a valuable contribution to the field in the future.
+
+
+# 🤖 Open Source Contributions
+I am a Core Member at the [AtlasIA](https://huggingface.co/atlasia) Initiative, which aims to build open-source data and models for Morocco.
+
+# 🙌 Initiatives and Community Contributions
+
+I am a Founding Member of the first Club of Artificial Intelligence and its application ([Club I2A](https://www.linkedin.com/company/club-i2a/)) at the Multidisciplinary Faculty of Nador.[Certificate](https://drive.google.com/file/d/11OlvlwxFe2cchFvfvFALpwI7X0xKboz1/view)
+
+
 
 
 
