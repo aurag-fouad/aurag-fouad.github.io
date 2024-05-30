@@ -31,15 +31,15 @@ My current research interests lie in the fields of Large Language Models and the
 
 I am a Core Member at the [AtlasIA](https://huggingface.co/atlasia) Initiative, which aims to build open-source data and models for Morocco.
 
+I am a [Founding Member](https://drive.google.com/file/d/11OlvlwxFe2cchFvfvFALpwI7X0xKboz1/view) and [Vice-President](https://drive.google.com/file/d/1wLrAFrt8ueEpt5a94i-8wxQF7InDsfC3/view) of the first Club of Artificial Intelligence and its Application ([Club I2A](https://www.linkedin.com/company/club-i2a/)) at the Multidisciplinary Faculty of Nador.
 
-I am a [Founding Member](https://drive.google.com/file/d/11OlvlwxFe2cchFvfvFALpwI7X0xKboz1/view) and [Vice-President](https://drive.google.com/file/d/1wLrAFrt8ueEpt5a94i-8wxQF7InDsfC3/view) of the first Club of Artificial Intelligence and its application ([Club I2A](https://www.linkedin.com/company/club-i2a/)) at the Multidisciplinary Faculty of Nador.
+I served as a core member of the organization team to organize multiple events, both inside and outside the faculty, as well as online. Here is a list of the events I worked on:
 
+1. **First Hackathon at the Multidisciplinary Faculty of Nador**: Focusing on Artificial Intelligence. [Certificate](https://drive.google.com/file/d/1OngiM-VKAri7i9cEcl_CQhqPh-dJ2Qeu/view?usp=sharing)
+2. **Workshop on Utilizing Artificial Intelligence for Scientific Research**: [Certificate](https://drive.google.com/file/d/1xGJ4m0Axymr5SbiBh5yDOX7ZPBEWt-fp/view?usp=sharing)
+3. **First Edition of the Artificial Intelligence Awareness Day (JSIA-01)**: [Certificate](https://drive.google.com/file/d/11qAkZx0iaZczsdhrw4SvJb_ZL0b9kVmU/view?usp=sharing)
+4. **First Edition of a Webinar on AI (Webinar-01)**: In collaboration with Professor [Mourad GRIDACH](https://mouradgridach.github.io/). [Certificate](https://drive.google.com/file/d/1CDkfksLl-M59cMvtojfu7rsrQZ39T7_b/view?usp=sharing)
 
-I served as a core member of the organziation tea to orgnize multiple events, Inside the aculty and outside tha faculty and online as well, here is a list of the events that i worked on:
-1- I was a core member of the organization team for the first Hackathon at the Multidisciplinary Faculty of Nador, focusing on Artificial Intelligence.[Certificate](https://drive.google.com/file/d/1OngiM-VKAri7i9cEcl_CQhqPh-dJ2Qeu/view?usp=sharing)
-2- I was a core member of the organization team to orgnize a workshop on utilizing artificial intelligence for scientific research.[Certificate](https://drive.google.com/file/d/1xGJ4m0Axymr5SbiBh5yDOX7ZPBEWt-fp/view?usp=sharing)
-3- Orgnized the first edition o the artificial intelligence awareness day (JSIA-01).[Certificate](https://drive.google.com/file/d/11qAkZx0iaZczsdhrw4SvJb_ZL0b9kVmU/view?usp=sharing)
-4- Orgnized the first edition of a Webinar of AI (Webinar-01) with collaboration with Professor [Mourad GRIDACH](https://mouradgridach.github.io/)[Certificate](https://drive.google.com/file/d/1CDkfksLl-M59cMvtojfu7rsrQZ39T7_b/view?usp=sharing)
 
 
 
