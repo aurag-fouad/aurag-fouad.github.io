@@ -15,8 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
+  # - title: "CV"
+  #   url: /cv/
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/CV_Fouad_Aurag.pdf
     
   # - title: "Guide"
   #   url: /markdown/
