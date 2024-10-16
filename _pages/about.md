@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 Education: Master's student in Data Science and Intelligent Systems at the [Multidisciplinary Faculty of Nador](https://fpn.ump.ma/) - [UMP](https://www.ump.ma/).
+👨🏻‍💻 Education: Graduated with a Master's degree in Data Science and Intelligent Systems at the [Multidisciplinary Faculty of Nador](https://fpn.ump.ma/) - [UMP](https://www.ump.ma/).
 
 🎓 Diplomas: I hold a Bachelor's Degree in Mathematics and Computer Science, with a specialty in Network Systems Administration and Web Technologies.
 
@@ -20,7 +20,7 @@ redirect_from:
 
 😊 About me
 ======
-Welcome to my academic webpage! I'm Fouad AURAG, a second-year Master's student in Data Science and Intelligent Systems at the Pluridisciplinary Faculty of Nador.
+Welcome to my academic webpage! I'm Fouad AURAG, and I recently graduated with a Master's degree in Data Science and Intelligent Systems from the Pluridisciplinary Faculty of Nador.
 
 As a passionate Data Science and Artificial Intelligence enthusiast, I bring solid experience in Data Mining, Machine Learning, and Big Data with Hadoop, as well as Data Warehouse technologies.
 
