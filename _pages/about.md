@@ -9,13 +9,13 @@ redirect_from:
 
 👨🏻‍💻 Education: Graduated with a Master's degree in Data Science and Intelligent Systems at the [Multidisciplinary Faculty of Nador](https://fpn.ump.ma/) - [UMP](https://www.ump.ma/).
 
-🎓 Diplomas: I hold a Bachelor's Degree in Mathematics and Computer Science, with a specialty in Network Systems Administration and Web Technologies.
+🎓 Diplomas: I hold a Master's degree in Data Science and Intelligent Systems, as well as a Bachelor's degree in Mathematics and Computer Science, with a specialty in Network Systems Administration and Web Technologies.
 
 🔬 Research interests: I am interested in Data Science and Artificial Intelligence, with a focus on Large Language Models.
 
-📚 Current pursuits: I am pursuing my Master's degree, expanding my knowledge and skills in Data Science and AI.
+📚 Current pursuits: I continue to expand my knowledge and skills in Data Science and AI through independent learning and professional development.
 
-📽️ Passion: I am passionate about participating in initiatives in AI and making contributions in this field, and I'm eager to continue learning and expanding my knowledge in the field of AI.
+📽️ Passion: I am passionate about participating in AI initiatives and making contributions in this field, and I'm eager to continue learning and advancing my expertise in AI.
 
 
 😊 About me
